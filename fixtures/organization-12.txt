@@ -1,0 +1,91 @@
+Organization: 12
+Interviewer:
+Alright, let’s start. This project is part of the ARIS research projects. I’m a doctor of sociology, I did my PhD at FUDŠ, collaborate at FIŠ, and at Rudolfovo I’m a research associate. I’m preparing to apply for associate professorship. My focus here is on networks – social networks – with a background in computer science and economics. This project is about circular economy, specifically industrial symbiosis, looking at exchanges between companies, and especially the social side: formal vs. informal relations, institutions, cognitive frames, and networking.
+Could you describe your organizational structure?
+Interviewee:
+We’re a public company. Above the director is the supervisory board. Then the director oversees sector heads: three major sectors plus an additional one for investments and development, then economics and general services. Below that are department heads and employees. We currently have 155 employees. We’re very environmentally oriented.
+Interviewer:
+What are your key sustainability perspectives? Are you already engaged in industrial symbiosis with others?
+Interviewee:
+Yes, of course. One example is our participation in waste management schemes. One of our core activities is collecting and transporting waste, which then goes to processors who close the material loop: from households to sorting, to treatment, and back into new products.
+Interviewer:
+Who is your main target – companies or households?
+Interviewee:
+Both, but a central goal is to increase separate collection of waste fractions. Currently, we’re below 50%. The goal is to reach 70% in the next five years. For this, we’re running pilot projects in three municipalities: door-to-door waste collection, where each household has its own container with an ID. That makes responsibility clearer.
+Interviewer:
+What happens if households don’t separate correctly? Are there sanctions?
+Interviewee:
+No. Unfortunately, there are no real sanctions. Inspectorates are overburdened. The new system at least makes it traceable to a specific household, but enforcement is weak.
+Interviewer:
+So one problem is negligence and low awareness?
+Interviewee:
+Yes. It’s not just lack of knowledge, it’s negligence. Many people assume “the utility company will sort it out.”
+Interviewer:
+This matches my other findings: in Slovenia awareness is low, unlike Scandinavia. And for businesses?
+Interviewee:
+Businesses prioritize economics first, ecology second. That’s still the reality.
+Interviewer:
+Besides waste, what other projects do you run?
+Interviewee:
+We’re part of the Novi krog project. We also run Ok olje (collection of used cooking oil). We’re working on installing solar power plants. At our wastewater treatment plants, we’re exploring energy recovery from sludge.
+Interviewer:
+So you’re environmentally proactive. What are regional advantages?
+Interviewee:
+We have knowledge, financing, and successful companies. We’re small and flexible, which makes us responsive. But the question is whether we use these advantages fully.
+Interviewer:
+In Italy (Friuli Venezia Giulia) there’s Ponte Rosso – a large industrial symbiosis park. Why does Slovenia lag behind?
+Interviewee:
+It’s hard to say – maybe legislation, maybe lack of motivation. But I’d say Slovenia is not very successful yet.
+Interviewer:
+Could you explain with an example?
+Interviewee:
+Take packaging. Utilities collect and sort it at the expense of citizens. We then pass sorted materials free of charge to national schemes. Those schemes get double financing: they are paid by producers (extended producer responsibility), and they also profit from selling recyclable materials. Utilities are left with negative-value waste and costs.
+Interviewer:
+So the system is unfair?
+Interviewee:
+Yes. We sort and collect, but we carry the costs. The profitable fractions go to others. It’s a loophole in the law.
+Interviewer:
+So circular economy “doesn’t really function”?
+Interviewee:
+Not as it should.
+Interviewer:
+Could you give another example?
+Interviewee:
+End-of-life vehicles. By law (since 2014), their disposal must be free for the owner. The dismantlers profit by selling valuable fractions: fuel, batteries, metals, catalytic converters, even used parts. That’s a good example of circular economy working.
+Interviewer:
+What enables sustainability projects to succeed?
+Interviewee:
+Mindset is key. Unfortunately, without sanctions people don’t change. Like with road safety: accidents only dropped after heavy fines for speeding and drunk driving.
+Interviewer:
+So culture shifts slowly, but sanctions help. What about the next generation?
+Interviewee:
+Kids learn more than we did, but it’s still not enough. My daughter in 2nd grade learns about waste separation, but the system must reinforce it year after year. Otherwise it fades away.
+Interviewer:
+And at your company? Any concrete sustainability measures?
+Interviewee:
+We’re planning solar-powered EV charging stations. We already have one electric vehicle. But charging infrastructure is a challenge. For long commutes, EVs are still impractical.
+Interviewer:
+What about cooperation in the region?
+Interviewee:
+There’s knowledge and willingness, but too often discussions remain at the informal level. Coffee talks, good ideas – but no structured initiatives. Reasons? Bureaucracy, lack of incentives, maybe resignation.
+Interviewer:
+So what would improve networking and symbiosis?
+Interviewee:
+First, reduce mistrust. Involve credible people with proven results, and showcase best practices. Good examples inspire replication.
+Interviewer:
+How would you rate trust among stakeholders in Slovenia (1–10)?
+Interviewee:
+Six. There’s room for improvement.
+Interviewer:
+And Dolenjska region specifically?
+Interviewee:
+We’re strong in pharmaceuticals (Krka) and automotive (Revoz, Mahle). Both invest in ecology and innovation. But problems remain: EV batteries are ecologically questionable, solar panels and wind turbine blades have no recycling solutions yet. Circular economy challenges are real.
+Interviewer:
+So you believe there’s potential but also big gaps?
+Interviewee:
+Yes. We’re smart enough as a nation to improve. But companies still ask: “What’s in it for me?” Economics dominates. Few invest for purely ecological reasons.
+Interviewer:
+Thank you.
+Interviewee:
+Thank you.
+

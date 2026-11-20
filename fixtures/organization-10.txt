@@ -1,0 +1,84 @@
+Organization: 10
+Interviewer:
+First, I need to ask – I’ll be recording this interview, is that ok?
+Interviewee:
+Ok.
+Interviewer:
+Good. So, why am I here today? As I mentioned, my colleague is conducting research on strengthening the development of industrial symbiosis networks in Slovenia. These are networks where companies collaborate in sustainable ways – for example, one company has resources it doesn’t need, another needs them, and they can exchange.
+To start: since the project is anonymous, I don’t need your name or your company’s name, but I’d like to know what your organizational structure looks like.
+Interviewee:
+In what sense?
+Interviewer:
+For example – how many employees do you have?
+Interviewee:
+Seven employees. We also collaborate with students and freelancers (sole proprietors) for marketing support.
+Interviewer:
+And within such a small company – seven people – I assume roles overlap? You have owners, directors?
+Interviewee:
+Yes. I’m co-owner and director, and we have another co-owner and director – both with full authority. Then we have a head of administration and sales, and three people in logistics. Right now we’re at the minimum headcount – just seven. About a year ago we had 13.
+Last year was difficult – sales dropped, and we invested heavily in marketing without knowing if it would pay off. Luckily, this year we turned things around. We’ve decided to outsource more instead of hiring full-time employees, because employment is a heavy obligation.
+Interviewer:
+That makes sense for a small company. Every employee covers multiple roles. Given those challenges last year, would you see industrial symbiosis – collaboration with other companies on resources and waste – as useful?
+Interviewee:
+Not really. We outsource production. We are the main producer legally, it’s our brand and our recipes, but external partners do the production. Our work here is mainly sales, marketing, logistics, and shipping.
+So I don’t see much relevance for industrial symbiosis in production or waste. In marketing and sales, yes, collaboration could work. But here we run into problems: agencies are extremely expensive. They charge “corporate prices” suitable for working with companies like Petrol or Krka, but completely unrealistic for us.
+We tried outsourcing social media marketing to several agencies, testing each for 14 days. Each one had a completely different vision, inconsistent with our branding, and ignored our corporate design guidelines. Customers even gave us feedback that the campaigns didn’t match our brand at all. So we realized it’s often better to have someone in-house who understands and lives the story.
+Interviewer:
+So production is not in-house – others manufacture for you?
+Interviewee:
+Yes. We handle packaging and filling only for products that must be directly filled (like from bulk to final jars). But everything else is done by external partners.
+Interviewer:
+How long have you been operating?
+Interviewee:
+Ten years.
+Interviewer:
+That’s substantial. With that history, you must also look outward. How do you perceive the entrepreneurial environment in your region and in Slovenia, in terms of sustainability and cooperation?
+Interviewee:
+There’s a lot of talk. Sustainability is trendy – used heavily in marketing. Competitors, other industries – everyone claims to be sustainable, but when you look closer, it’s often not the case.
+In cosmetics, sustainable packaging is problematic: it’s more expensive and can reduce product shelf life. Suppliers won’t guarantee performance. We experimented two years ago with more sustainable tubes for hand cream, but suppliers refused responsibility for whether the packaging would preserve the cream properly. For a small company like ours, that’s too risky.
+We also tried refillable jar concepts – outer packaging reused, with replaceable inserts – but consumers weren’t willing to pay more, and it complicated logistics. So we abandoned it.
+Later, we pushed our Slovenian supplier (Plastika Virant) to introduce jars made from 100% PCR material. At first, they said our volumes were too small. But after some time, as other clients also requested it, they invested in a new line. Now we have one of the most sustainable jars on the market, made in Slovenia. That worked out well – by coincidence our demand aligned with broader market demand.
+Interviewer:
+So you prefer working with Slovenian suppliers?
+Interviewee:
+Yes. It keeps money circulating locally and fits our brand identity – “Made in Slovenia,” local hemp from a neighboring municipality. Supporting local is part of our story.
+Interviewer:
+Do your customers demand sustainable packaging or products?
+Interviewee:
+Some do, but not many. For example, vegan certification matters to some customers. All our products are vegan except lip balm (contains beeswax). We had one foreign customer who was upset about this, even sending recipes and suggestions. But realistically, we sell 10,000 lip balms annually – changing everything for one customer doesn’t make sense.
+Sometimes niche retailers like Rifuzl (a zero-waste store) pressure us. We tried selling there, but cosmetics are difficult because packaging must be certified and tied to product safety reports. Zero-waste refills don’t work well for cosmetics.
+Interviewer:
+How about waste legislation?
+Interviewee:
+We’re part of SLOPAK, reporting packaging waste (cardboard, plastics, etc.). Fees are low and don’t impact our strategy.
+Interviewer:
+You mentioned hemp comes from a local supplier you control. That’s sustainability in sourcing. How about sustainability in your production partners – e.g., do you care if they use solar energy?
+Interviewee:
+It would be great, but we’re too small to demand it. For key ingredients – hemp extract, oil, hydrolate – we manage sourcing ourselves to avoid unreliable suppliers. For other standard cosmetics ingredients, we rely on European certified suppliers (required for our “NATUR” certification). Certification rules are extremely strict – sometimes absurdly so – but they ensure consumer safety and trust.
+Interviewer:
+What about sustainability in your region generally?
+Interviewee:
+I don’t see much at the regional level. In our building, yes – investments in sustainable infrastructure, which we support even if rent costs a bit more. Personally, I also have solar panels at home and drive electric. But regionally – I don’t see much happening.
+Interviewer:
+Do you get sustainability information from the state or support institutions?
+Interviewee:
+There’s information, especially from SPIRIT Slovenia and similar agencies, but most programs and tenders are designed for larger companies. For small companies like us, it’s hard to find relevant opportunities.
+Interviewer:
+So support is targeted at big companies?
+Interviewee:
+Yes, that’s how it feels.
+Interviewer:
+How about human capital? What kind of people are needed to drive sustainability changes in companies?
+Interviewee:
+First and foremost, you need leaders who live sustainability themselves. If the director doesn’t recycle at home or doesn’t care about solar energy, they won’t implement it in business.
+It’s more about mindset and philosophy than technical expertise. The word “sustainability” is overused in marketing – most people don’t even agree on what it means.
+Interviewer:
+How important is trust with suppliers and partners?
+Interviewee:
+Trust is more important than contracts. We’ve had experiences with foreign suppliers who delivered good quality the first time, then bad quality later. With local partners I know personally, I can trust them.
+Contracts don’t help much for small firms like ours – we can’t afford lawsuits. In practice, agreements are often informal, with confirmation via email. With bigger clients like retail chains, it’s the opposite – we must sign their long, complex contracts. Sometimes it’s risky, especially with return policies or product expiration dates. That can kill a small company.
+Interviewer:
+Where do you see potential improvements for your company?
+Interviewee:
+Sales growth. With higher volumes, we could optimize logistics and processes, but right now investment isn’t justified. Also, our sector is highly uncertain due to cannabis regulation. Laws change overnight – products can suddenly be banned from advertising or sale. That makes long-term planning very difficult.
+

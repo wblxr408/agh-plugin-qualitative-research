@@ -1,0 +1,103 @@
+Organization: 11
+Interviewer:
+First, I need to mention: our conversation is recorded and anonymous. We’ll transcribe it and then delete the recording. We won’t mention your company name or your partners. We’re only interested in general information.
+So, to begin: what does your company do, which sector are you in, and what is your organizational structure?
+Interviewee:
+We’re in the construction sector, specifically civil engineering (low construction, not buildings). The structure is: two directors, an accounting department, a workshop department, and the construction/operations department, which includes a head of operations, foremen, and workers.
+Interviewer:
+How many employees?
+Interviewee:
+Fifty.
+Interviewer:
+Would industrial symbiosis – networks where companies share investments, processes, and results – be of interest to you?
+Interviewee:
+We’re always looking for some form of symbiosis. For example, on one construction site we might need material that another site has as surplus. That’s already a kind of symbiosis.
+The problem is that surplus material is usually considered waste, and it’s difficult to reuse it as certified construction material. Another issue: as a small company, it’s hard to collaborate with big firms like CGP. They have everything in-house – their own quarries, asphalt plants, concrete plants – so they don’t need smaller partners.
+Interviewer:
+So your challenge is that you cover only part of the value chain, while the big ones cover everything?
+Interviewee:
+Exactly. Also, size. Big firms can take on €10–20 million projects, while we can’t. So they take the projects, and we work as subcontractors – and they can squeeze us on price. That’s not really symbiosis.
+Interviewer:
+Are there legal barriers for material exchange?
+Interviewee:
+No. If waste is processed into construction material, there are no legal issues.
+Interviewer:
+So it’s more about ad-hoc arrangements with neighboring construction sites, not long-term relationships?
+Interviewee:
+Correct. In building construction (high construction), there are more long-term partnerships. A general contractor hires the same trusted subcontractors year after year, and they grow together. That’s more like symbiosis. But in our sector (civil works), less so.
+Interviewer:
+What about partnerships supported by associations or support organizations?
+Interviewee:
+Not really. The only partnerships we form are with suppliers we trust, where we stop asking for bids every time and just order. That’s about it.
+Interviewer:
+Do you see similar practices in other industries?
+Interviewee:
+Not much. Maybe producers, but even then rarely. Sometimes companies share a transporter, but exchanging waste as resources is uncommon. For example, Revoz works with Dinos, but that’s more recycling than a partnership.
+Interviewer:
+What about waste management in your company? How does legislation affect you?
+Interviewee:
+It depends on market prices for disposal or resale of waste. For hazardous materials like asbestos, we transport them across Slovenia to the cheapest disposal site (for example, CEROD).
+We also own a crusher for excavated material. From excavated stone we can produce gravel or aggregate for roadbeds. We’re registered to do this legally. So yes, we recycle part of our own materials. Otherwise, we’d need centralized collection centers, which complicates things.
+Interviewer:
+So it saves you costs?
+Interviewee:
+Yes. For example, if we excavate material on-site, we crush it and reuse it directly on the project instead of buying new material.
+Interviewer:
+What drives such sustainable decisions – environmental or economic?
+Interviewee:
+Economics first. Simplifying the work second. Environmental reasons are present but secondary.
+Interviewer:
+Fair enough. Many companies say the same.
+Interviewee:
+Yes. Sustainability projects only happen if they make financial sense or if subsidies make them worthwhile.
+Interviewer:
+Do you get information or support about sustainability from government or associations?
+Interviewee:
+Not much. In transport, regulations already exist – road tolls depend on Euro emission standards. But in construction, there’s not much pressure. The work still relies heavily on manual labor; unlike Germany, where prefabrication reduces carbon footprint.
+Interviewer:
+Would you say your company is already involved in sustainability?
+Interviewee:
+Yes, in our own way. We built a new workshop with a heat pump, a borehole, and solar panels. It’s efficient and sustainable compared to older facilities.
+Interviewer:
+Who are your key partners? Long-term or project-based?
+Interviewee:
+Both. For specialized services, always the same partners nationwide. For more generic services, local partners, because transport is cheaper and responsiveness is better.
+Interviewer:
+So choice is based on location and infrastructure?
+Interviewee:
+Yes. Concrete plants, asphalt plants, quarries – you work with the closest.
+Interviewer:
+How important is trust?
+Interviewee:
+We know which partners provide quality and which provide cheaper but lower quality work. It’s based on past experience. If a supplier has recently failed, we don’t use them.
+Interviewer:
+Do you rely more on formal or informal agreements?
+Interviewee:
+Mostly informal. Formal contracts can be “death sentences” for small firms. Our lawyer once warned us not to sign one. So we rely on informal agreements and trust, though that carries risks.
+Interviewer:
+What about trust for industrial symbiosis?
+Interviewee:
+Trust is crucial, especially with suppliers we’ve worked with for years. If payments are delayed, good relationships help manage it. But we don’t have deep partnerships specifically for material exchange – not much need.
+Interviewer:
+Construction is one of the largest waste producers. Why?
+Interviewee:
+Because soil is classified as waste. That inflates the numbers. Soil must be officially transported to landfills with the right permits. We can recycle stone and concrete into aggregates, but not hazardous materials like asbestos or fiberglass.
+Interviewer:
+So most materials can be recycled, but not hazardous ones?
+Interviewee:
+Yes. For hazardous ones, you need licensed disposal. For others, we recycle on-site when possible.
+Interviewer:
+What drives adoption of sustainable solutions – like electric cars or solar?
+Interviewee:
+It depends on leadership. Often it’s someone local, tied to the environment, who wants to leave a good legacy. Even if the decision isn’t purely economical, they choose sustainability out of pride or responsibility for their community.
+Interviewer:
+So local embeddedness matters?
+Interviewee:
+Yes. People are more motivated to do the right thing in their own environment, where they live and where their children will grow up. There’s a patriotic element.
+Interviewer:
+Excellent. Thank you – that was my last question.
+Interviewee:
+Great.
+Interviewer:
+Thank you.
+

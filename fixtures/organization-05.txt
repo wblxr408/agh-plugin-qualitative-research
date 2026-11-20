@@ -1,0 +1,70 @@
+Organization: 5
+Interviewer:
+How is your organization actually structured? I’m interested in how you are organized internally.
+Interviewee:
+We operate in a business-functional organizational form. This means that our structure follows the functional areas of operations.
+Interviewer:
+Have you ever considered joining an industrial symbiosis network – where stakeholders in the environment share resources, costs, and results?
+Interviewee:
+Honestly, we haven’t thought about it. So far, we haven’t identified any benefits that would make us pursue this. Of course, it all depends on the conditions of cooperation.
+Interviewer:
+Would cooperation attract you if clear economic or environmental benefits were visible?
+Interviewee:
+Maybe, if it made sense. But for now, we really haven’t dealt with this, so we don’t have a specific position.
+Interviewer:
+What about local sustainability goals or forms of cooperation between companies in this area – are you involved anywhere?
+Interviewee:
+No, our company is currently not involved in any sustainability cooperation or network.
+Interviewer:
+How would you assess the support of the community in Slovenia? Do you feel any incentives or connections?
+Interviewee:
+I would say that community support is quite weak. We don’t have any concrete connections or incentives, at least not ones we are aware of.
+Interviewer:
+And legislation – especially regarding recycling and reuse? How does it affect you?
+Interviewee:
+We don’t know this area well, because we don’t deal with recycling ourselves. We use recycled materials, but we don’t produce them – it’s not part of our process.
+Interviewer:
+Do you have any experience with implementing sustainability projects?
+Interviewee:
+No, so far we don’t have such experience.
+Interviewer:
+How does your company view issues such as reducing CO₂ emissions, water consumption, and waste?
+Interviewee:
+We strive to reduce water consumption and waste. But in terms of CO₂ emissions, we don’t have much influence.
+Interviewer:
+Do you notice any forms of information or knowledge exchange on sustainability in your environment?
+Interviewee:
+No, there are no such exchanges in our case.
+Interviewer:
+Are you involved in any forms of product exchange between companies – for example, using something as an input in your production process?
+Interviewee:
+No, we are not involved in such processes and we don’t know of any concrete examples.
+Interviewer:
+How do you view human capital – knowledge, experience, skills – needed for successful cooperation between companies?
+Interviewee:
+There is already some level of symbiosis between companies, but not much. I think this could be significantly improved.
+Interviewer:
+Who are your key partners? Do you have any experience with cooperation in resources or sustainability?
+Interviewee:
+We have very little such cooperation, almost none.
+Interviewer:
+How important do you think trust is when establishing new connections?
+Interviewee:
+Very important. The process is demanding. You need to find the right partner, with whom you get along well and can cooperate successfully.
+Interviewer:
+What is the general opinion about formal and informal cooperation between companies in Slovenia?
+Interviewee:
+I think both formal and informal cooperation in Slovenia is generally good.
+Interviewer:
+How would you assess the level of trust among stakeholders in symbiotic networks?
+Interviewee:
+It depends entirely on the partners. For cooperation to succeed, trust must be at a very high level.
+Interviewer:
+Do you have any suggestions for improving processes in existing or new industrial symbiosis networks?
+Interviewee:
+The most important thing is trust – without it, nothing works. Unfortunately, I also notice a trend of declining trust lately, which can have quite a negative effect.
+Interviewer:
+Do you see possibilities for improvements in your company – especially regarding efficiency and savings, if you were to participate in a symbiotic network?
+Interviewee:
+Of course. There are always possibilities for improvement.
+

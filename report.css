@@ -1,0 +1,214 @@
+/* Agnes light and dark palette, by role. The report is also usable as a standalone document. */
+:root {
+  color-scheme: light dark;
+  --workspace: #ffffff;
+  --surface: #ffffff;
+  --subtle: #f3f3f1;
+  --line: #e4e4e0;
+  --text: #1b1d22;
+  --secondary: #4b4f58;
+  --muted: #606570;
+  --accent: #4450cb;
+  --focus: #4f5bd5;
+  --soft: #eef0fc;
+  --display: "Noto Serif SC", "Songti SC", SimSun, Georgia, serif;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --workspace: #1b1c21;
+    --surface: #1f2026;
+    --subtle: #26272d;
+    --line: #2c2e35;
+    --text: #e6e7ea;
+    --secondary: #c3c6cc;
+    --muted: #9a9ea8;
+    --accent: #a5acff;
+    --focus: #8a93ff;
+    --soft: #252845;
+  }
+}
+
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  color: var(--text);
+  background: var(--workspace);
+  font:
+    15px / 1.7 "Noto Sans SC",
+    "Microsoft YaHei",
+    sans-serif;
+  overflow-wrap: anywhere;
+}
+main {
+  max-width: 68rem;
+  margin: auto;
+  padding: clamp(16px, 4vw, 48px);
+}
+h1,
+h2,
+h3,
+p,
+dl,
+dd,
+figure,
+blockquote {
+  margin: 0;
+}
+h1,
+h2,
+.core h3 {
+  font-family: var(--display);
+  line-height: 1.25;
+}
+h1 {
+  margin: 9px 0 14px;
+  font-size: clamp(30px, 5vw, 50px);
+}
+h2 {
+  margin-bottom: 14px;
+  font-size: clamp(22px, 3vw, 29px);
+}
+a {
+  color: var(--accent);
+  text-underline-offset: 4px;
+}
+:focus-visible {
+  outline: 2px solid var(--focus);
+  outline-offset: 3px;
+}
+.hero {
+  border-top: 4px solid var(--focus);
+  padding-top: 19px;
+}
+.kicker {
+  color: var(--accent);
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+}
+.question {
+  color: var(--secondary);
+  max-width: 66ch;
+}
+.metrics {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 1px;
+  margin: 24px 0 0;
+  background: var(--line);
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  overflow: hidden;
+}
+.metrics div {
+  display: flex;
+  flex-direction: column-reverse;
+  background: var(--subtle);
+  padding: 12px;
+}
+.metrics dt,
+.muted,
+small,
+figcaption {
+  color: var(--muted);
+  font-size: 12px;
+}
+.metrics dd {
+  color: var(--text);
+  font: 700 clamp(19px, 3vw, 29px) / 1.3 var(--display);
+  font-variant-numeric: tabular-nums;
+}
+nav {
+  display: flex;
+  gap: 10px 20px;
+  flex-wrap: wrap;
+  padding: 15px 0;
+  border-bottom: 1px solid var(--line);
+}
+nav a {
+  font-weight: 700;
+  text-decoration: none;
+  font-size: 13px;
+}
+nav a:hover {
+  text-decoration: underline;
+}
+section,
+footer {
+  padding: 25px 0;
+  border-bottom: 1px solid var(--line);
+}
+section p + p {
+  margin-top: 8px;
+}
+.core {
+  padding: 16px 18px;
+  margin-bottom: 22px;
+  background: var(--soft);
+  border-radius: 10px;
+  border-left: 3px solid var(--focus);
+}
+.core h3 {
+  font-size: clamp(19px, 3vw, 25px);
+  margin: 5px 0;
+}
+.category {
+  border: 1px solid var(--line);
+  border-radius: 9px;
+  background: var(--surface);
+  margin-top: 8px;
+}
+summary {
+  cursor: pointer;
+  padding: 10px 12px;
+  font-weight: 700;
+}
+summary:hover {
+  background: var(--subtle);
+}
+summary small {
+  margin-inline-start: 9px;
+  font-weight: 400;
+}
+.id {
+  color: var(--accent);
+  font-size: 12px;
+  margin-inline-end: 10px;
+  font-variant-numeric: tabular-nums;
+}
+.body {
+  padding: 0 12px 10px;
+}
+.code {
+  border-top: 1px solid var(--line);
+  margin-top: 6px;
+}
+.code summary {
+  padding-inline: 0;
+}
+figure {
+  padding: 9px 12px;
+  background: var(--subtle);
+  border-left: 2px solid var(--focus);
+  margin: 5px 0 9px;
+}
+figcaption {
+  margin-top: 5px;
+  font-family: "Cascadia Mono", Consolas, monospace;
+}
+ul,
+ol {
+  margin: 0;
+  padding-inline-start: 22px;
+}
+li + li {
+  margin-top: 7px;
+}
+@media (max-width: 480px) {
+  .metrics {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}

@@ -1,0 +1,94 @@
+Organization: 9
+Interviewer:
+Ok, the interview is being recorded, and first we need your consent – do we have your consent for recording?
+Interviewee:
+Yes, of course.
+Interviewer:
+The interview is anonymous, so there’s no need to mention your name, company, or your partners.
+Interviewee:
+Good.
+Interviewer:
+Let’s start with the basics. What sector does your company operate in, and what is your organizational structure?
+Interviewee:
+The company operates in renewable energy, mainly in the expansion of photovoltaics in the Slovenian market. Of course, we also do some design, supervision – all the related engineering activities. The organizational structure is horizontal – there are no structured departments, but rather team-based collaboration among employees.
+Interviewer:
+Thank you. I described earlier what industrial symbiosis is. Regardless of whether you have direct experience with it, would you be willing to join such networks where companies share financial inputs and results?
+Interviewee:
+Absolutely. But you really have to know your partner well – their resources, the quality of those resources if you’re using them as inputs, and the reliability of supply – so you can ensure stable processes.
+Interviewer:
+Do you already notice any sustainability-oriented relationships in your environment, either among companies or support organizations?
+Interviewee:
+Definitely. I think it’s mostly larger companies that, because of the state or regulation and reporting requirements, are more or less “pushed” to accelerate their sustainability transition and implement sustainable practices. The concept of sustainability is increasingly popular in Slovenia and is also a market niche – companies present it to stakeholders as their commitment to protecting the environment for future generations.
+But I’d say most companies first look at the economic aspect of sustainability – efficiency that improves business results.
+In our sector, renewables are inherently about long-term sustainability. The industry itself is also transforming – for example, in battery recycling and the use of more sustainable materials in production. Larger companies definitely invest more in sustainability. Smaller companies try to follow because of stakeholder expectations that every business should take part in this transition.
+Interviewer:
+Are you yourself already included in any collaborations between companies?
+Interviewee:
+More in terms of battery recycling, yes. But as for a comprehensive sustainability strategy – not at this moment.
+Interviewer:
+Earlier you mentioned that larger companies are sometimes pressured into collaboration. Which regulations drive this, in your view?
+Interviewee:
+Large companies are usually part of international supply chains where sustainability strategies are essential. They must report on environmental, economic, and social indicators – and once you commit to goals and publish metrics, you must measure and prove them over time.
+This pressure from owners, stakeholders, and customers accelerates sustainability adoption. Bigger companies also have the stability and resources – financial and human – to create dedicated sustainability departments. Small companies cannot afford that if they’re still struggling for survival or building up basic infrastructure.
+Interviewer:
+Do you see support from the state or local communities for cooperation in sustainability?
+Interviewee:
+Not really for inter-company cooperation. Collaborations usually arise from shared economic interests. There are some programs – SPIRIT Slovenia does a few, and tenders are increasingly focused on sustainability. Applications now often require proof of circular economy practices, life cycle analyses, etc. Banks and public tenders are also more focused on sustainability.
+So yes, there are some incentives, but not huge amounts of funding available for transformation.
+Interviewer:
+Given your sector, you deal with waste materials. How does legislation regulate their recycling and reuse, and how does that affect you?
+Interviewee:
+Our sector is very tightly regulated – electronic waste. We must sign contracts with companies licensed to handle recycling. We pay fees for distribution of such products, and when they reach end-of-life, certified companies must recycle them.
+In Slovenia there are about five companies authorized by the Ministry of Environment to do this. For us, this doesn’t create barriers – on the contrary, it provides clarity about who handles the materials. It’s an additional financial burden, but at least we know where waste ends up.
+Interviewer:
+So you don’t need to search for other partners to optimize waste management?
+Interviewee:
+No, that is already solved in our industry. I believe other industries handle it similarly.
+Interviewer:
+What factors drive you toward more sustainable procurement of inputs – awareness of environmental impact, or economics?
+Interviewee:
+You need to survive on the market. The aim is to minimize environmental damage while ensuring economic benefits. Leadership awareness is crucial.
+We work only with suppliers who have environmental and quality certifications and provide long-term guarantees. Of course, there are competitors who choose cheaper, lower-quality inputs for short-term profit – but we prefer long-term sustainability and quality.
+Interviewer:
+How do you view Slovenia’s efforts to reduce CO₂, water use, and waste?
+Interviewee:
+Slovenia is quite advanced, given its small size, and proactive in following EU regulations. Implementation takes time, because sustainability strategies come with costs and process changes. There are many incentives, especially for recycling and emissions reduction. The challenge is that transformation requires major effort and financing – it doesn’t happen overnight.
+Interviewer:
+And how about knowledge sharing and communication between companies on sustainability?
+Interviewee:
+I’m not sure how much direct exchange there is. The state publishes strategies and goals publicly, but it’s up to companies or individuals to study them. Businesses usually discuss these issues only when they must implement new regulations. Then they ask each other how they solved it, what adjustments were needed, and so on.
+Interviewer:
+So in your sector you’re already quite tightly regulated, with clear waste-handling procedures. Would you say you are strongly embedded in sustainability processes?
+Interviewee:
+Yes, exactly. The state ensures oversight. We report waste volumes and hand them over to licensed operators. For us, this is well organized.
+Interviewer:
+Do you see a need for industrial symbiosis in your sector, for input or output flows?
+Interviewee:
+The need exists, but such flows must be very clearly defined. If we were to join a symbiosis network, we would need stability in supply, clear quality standards, and reliable information systems – like a structured digital marketplace for secondary materials.
+Right now, such networks are still in their infancy.
+Interviewer:
+How important is trust?
+Interviewee:
+Extremely important – just like with a reliable supplier. It’s about delivery time, quality, relationship, and transparency.
+Interviewer:
+And formal vs. informal cooperation?
+Interviewee:
+It depends on the partner. With new or less familiar partners, you want very formal agreements, so you have legal recourse if needed. With long-term partners, informal arrangements can work.
+Personally, I prefer more structured collaboration – better to define rules and expectations upfront.
+Interviewer:
+What kind of human capital is needed for industrial symbiosis?
+Interviewee:
+You need “connectors” – people with wide networks, negotiation skills, and the ability to identify collaboration opportunities. Sometimes consultants or managers play this role. They don’t need to be deep specialists – they need networking ability and practical problem-solving.
+Interviewer:
+Do you see room for process improvements in your company related to sustainability or cooperation with others?
+Interviewee:
+Yes. Industrial symbiosis is not yet strong in our field, mainly due to quality control concerns. But if the state creates a structured environment – like a regulated marketplace for secondary materials – we would definitely participate. It would improve efficiency and create both economic and environmental benefits.
+Interviewer:
+So you see potential if the structures are in place?
+Interviewee:
+Absolutely. Especially if local or European alternatives to Chinese imports of photovoltaics become available. That would make many of us reconsider supply chains in favor of local, more sustainable solutions.
+Interviewer:
+Thank you very much.
+Interviewee:
+Thank you.
+
