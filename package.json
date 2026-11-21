@@ -1,61 +1,32 @@
 {
   "name": "@wblxr408/qualitative-research",
-  "version": "0.5.2",
-  "type": "module",
+  "version": "0.6.0",
   "license": "Apache-2.0",
-  "engines": {
-    "node": ">=24.10"
+  "description": "Configuration bundle. Install and authorize the separate runtime for Qualitative Research.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wblxr408/agh-plugin-qualitative-research"
   },
-  "exports": "./index.mjs",
   "files": [
-    "*.mjs",
-    "report.css",
-    "client",
-    "fixtures",
-    "README.md",
-    "agh.market.json",
     "LICENSE",
-    "LICENSE.LLMCode",
-    "LICENSE.d3-hierarchy",
-    "LICENSE.Fuse",
-    "NOTICE"
+    "README.md",
+    "agh.market.json"
   ],
   "agnes": {
-    "plugins": [
-      {
-        "export": "main",
-        "apiRange": "^5.0.0",
-        "id": "ext:@wblxr408/qualitative-research/main",
-        "inject": [
-          "tools",
-          "providers",
-          "skills"
-        ],
-        "capabilities": {
-          "model": true,
-          "ui": true,
-          "filesystem": {
-            "read": [
-              "**/*.txt",
-              "**/*.md"
-            ],
-            "write": [
-              "fde-output/qualitative-research/**"
-            ]
-          }
+    "provides": [
+      "bundle"
+    ],
+    "metadata": {
+      "displayName": "Qualitative Research",
+      "summary": "Configuration bundle. Install and authorize the separate runtime for Qualitative Research.",
+      "description": "Launch the interview coding workflow, then open its workbench to review themes and quotes.",
+      "locales": {
+        "zh-CN": {
+          "displayName": "访谈主题分析",
+          "summary": "配置 Bundle。访谈主题分析功能由单独安装和授权的运行组件提供。",
+          "description": "启动访谈编码流程，再打开访谈分析工作台核对主题和原文引文。"
         }
       }
-    ],
-    "clientDescriptors": [
-      {
-        "rowId": "ext:@wblxr408/qualitative-research/main",
-        "path": "./client/agnes.client.json"
-      }
-    ],
-    "hostProvidedExternals": {
-      "@agnes/plugin-runtime": "0.0.0",
-      "@agnes/extension-api": "^5.0.0",
-      "@sinclair/typebox": "~0.34.0"
     },
     "bundles": {
       "qualitative-research": {
@@ -84,8 +55,8 @@
             "zh-CN": "访谈主题分析"
           },
           "description": {
-            "en": "Code interview excerpts and present candidate themes with source quotes.",
-            "zh-CN": "分批编码访谈材料，生成带原文引文的候选主题。"
+            "en": "Launch the interview coding workflow, then open its workbench to review themes and quotes.",
+            "zh-CN": "启动访谈编码流程，再打开访谈分析工作台核对主题和原文引文。"
           },
           "preset": "qualitative-research",
           "prompt": {
@@ -97,24 +68,6 @@
           }
         }
       }
-    },
-    "metadata": {
-      "displayName": "Qualitative research",
-      "summary": "Code interview excerpts and present candidate themes with source quotes.",
-      "description": "Code interview excerpts and present candidate themes with source quotes.",
-      "locales": {
-        "zh-CN": {
-          "displayName": "访谈主题分析",
-          "summary": "分批编码访谈材料，生成带原文引文的候选主题。",
-          "description": "分批编码访谈材料，生成带原文引文的候选主题。"
-        }
-      }
-    },
-    "provides": [
-      "bundle",
-      "loop",
-      "tool",
-      "ui"
-    ]
+    }
   }
 }
