@@ -7,7 +7,7 @@
     "lifetime": "profile",
     "slotCatalogVersion": "dsh-client-slots/v1",
     "slots": ["conversation.session.header.actions"],
-    "requiresBackendRows": ["ext:@wblxr408/qualitative-research/main"],
+    "requiresBackendRows": ["ext:@wblxr408/qualitative-research-runtime/main"],
     "homeEntries": [
       {
         "id": "qualitative-research-studio",

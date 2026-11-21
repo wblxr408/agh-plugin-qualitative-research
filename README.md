@@ -7,8 +7,8 @@
 使用已构建的 [AGH CLI](https://github.com/AgnesAI-Labs/agnes-harness/blob/main/docs/guide/install.zh-CN.md)。在 AGH 工作区首次启用：
 
 ```powershell
-agh plugins add git:https://github.com/wblxr408/agh-plugin-qualitative-research#v0.5.2
-agh --new --agent '@wblxr408/qualitative-research#qualitative-research' -p '全量演示'
+agh plugins add git:https://github.com/wblxr408/agh-plugin-qualitative-research#runtime-v0.5.2
+agh --new --agent '@wblxr408/qualitative-research-runtime#qualitative-research' -p '全量演示'
 ```
 
 首次安装时按 CLI 提示审阅并启用。在 Web 的「智能体」页选择「访谈主题分析」，发送预填的「演示」会跑前两份访谈，发送「全量演示」会跑 25 份访谈、166,834 个英文字符。两条命令都使用预置规则和示例解释做离线演示，无需模型密钥。在会话文件卡打开 `report.html`，展开主轴范畴，再展开开放编码即可查看引文。另有 `report.md` 用于编辑和导出。两份报告也会写到工作区的 `fde-output/qualitative-research/`。
