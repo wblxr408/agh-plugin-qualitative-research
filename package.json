@@ -1,6 +1,6 @@
 {
   "name": "@wblxr408/qualitative-research",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "license": "Apache-2.0",
   "description": "Configuration bundle. Install and authorize the separate runtime for Qualitative Research.",
   "repository": {
@@ -29,42 +29,34 @@
       }
     },
     "bundles": {
-      "qualitative-research": {
+      "guide": {
         "profile": {
-          "providers": {
-            "loop": {
-              "provider": "fde.qualitative-research",
-              "version": "5.0.0"
-            }
+          "toolPolicy": {
+            "readOnly": true
           }
         },
         "presets": {
-          "qualitative-research": {
-            "name": "qualitative-research",
-            "extends": "standard",
-            "providers": {
-              "tool-policy": {
-                "provider": "fde.qualitative-research"
-              }
-            }
+          "interview-setup": {
+            "name": "interview-setup",
+            "extends": "standard"
           }
         },
         "launch": {
           "title": {
-            "en": "Qualitative research",
-            "zh-CN": "访谈主题分析"
+            "en": "Qualitative Research Setup",
+            "zh-CN": "访谈主题分析配置说明"
           },
           "description": {
-            "en": "Launch the interview coding workflow, then open its workbench to review themes and quotes.",
-            "zh-CN": "启动访谈编码流程，再打开访谈分析工作台核对主题和原文引文。"
+            "en": "Configuration bundle. Install and authorize the separate runtime for Qualitative Research.",
+            "zh-CN": "配置 Bundle。访谈主题分析功能由单独安装和授权的运行组件提供。"
           },
-          "preset": "qualitative-research",
+          "preset": "interview-setup",
           "prompt": {
+            "mode": "draft",
             "text": {
-              "en": "demo",
-              "zh-CN": "演示"
-            },
-            "mode": "draft"
+              "en": "Explain how to use the separately installed Qualitative Research runtime. Open the runtime agent “Qualitative research” and send “demo-full” to analyze the bundled 25 interviews; the workbench shows source citations.",
+              "zh-CN": "请说明如何使用另行安装的访谈主题分析运行组件。从智能体启动运行组件提供的「访谈主题分析」，发送「全量演示」分析 25 份访谈，再打开工作台查看原文出处。"
+            }
           }
         }
       }

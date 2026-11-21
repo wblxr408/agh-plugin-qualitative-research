@@ -10,9 +10,13 @@
    agh plugins add git:https://github.com/wblxr408/agh-plugin-qualitative-research#2a2dbdf79168a861a89cb325dab3a4ded4769886
    ```
 
-2. 在 AGH 市场安装并启用 `@wblxr408/qualitative-research` 0.6.0。启动访谈编码流程，再打开访谈分析工作台核对主题和原文引文。
+2. 在 AGH 市场安装并启用 `@wblxr408/qualitative-research` 0.6.1。启动访谈编码流程，再打开访谈分析工作台核对主题和原文引文。
 
-工作流使用运行组件注册的分析 Loop。导入自有材料时按组件文档配置模型。
+分析时请从「智能体」启动运行组件提供的「访谈主题分析」。市场 Bundle 的「访谈主题分析配置说明」提供只读配置指导。导入自有材料时按组件文档配置模型。
+
+```sh
+agh --new --agent '@wblxr408/qualitative-research-runtime#qualitative-research' -p '全量演示'
+```
 
 如果已安装本仓库的旧版插件，请先用市场 Bundle 更新旧版，再安装新的运行组件，避免同一功能同时加载两个版本。
 
