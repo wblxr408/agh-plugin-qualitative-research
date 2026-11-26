@@ -1,6 +1,6 @@
 {
   "name": "@wblxr408/qualitative-research-runtime",
-  "version": "0.5.2",
+  "version": "0.5.3",
   "type": "module",
   "license": "Apache-2.0",
   "engines": {
@@ -21,6 +21,14 @@
     "NOTICE"
   ],
   "agnes": {
+    "application": {
+      "id": "qualitative-research-studio",
+      "presentation": {
+        "navigation": {
+          "entries": ["@wblxr408/qualitative-research-runtime#qualitative-research-studio"]
+        }
+      }
+    },
     "plugins": [
       {
         "export": "main",
